@@ -1,0 +1,41 @@
+Description
+This project provides an analysis of the COVID-19 pandemic's impact across different continents and countries. 
+The visualizations highlight critical metrics such as the total number of cases, deaths, death percentages, and the 
+percentage of the population infected over time. The data is presented through various charts and maps, offering insights 
+into the spread and severity of the pandemic.
+
+Tools Used
+SQL: For data extraction, transformation, and loading (ETL) processes.
+Tableau: For data visualization and dashboard creation.
+
+Steps
+Data Collection:
+Gathered COVID-19 data from reliable sources such as health organizations and government databases.
+
+Data Preparation (SQL):
+Imported raw data into a SQL database.
+Cleaned the data to handle missing values and inconsistencies.
+Normalized the data to ensure efficient storage and retrieval.
+Performed SQL queries to aggregate data by continent and country.
+Calculated critical metrics such as total cases, total deaths, death percentages, and the percentage of the population 
+infected.
+
+Data Analysis and Visualization (Tableau):
+Connected Tableau to the SQL database to import the prepared data.
+
+Created various charts and graphs:
+Total Deaths Per Continent: A bar chart showing the total number of deaths in each continent.
+Percent Population Infected Per Country: A line graph tracking the percentage of the population infected over time for selected countries.
+Critical Numbers: A summary of total cases, total deaths, and the death percentage.
+World Map Visualization: A choropleth map showing the percent population infected per country.
+
+Dashboard Creation:
+Designed an interactive dashboard in Tableau to combine all the visualizations.
+Added filters to allow users to explore data for specific continents and countries.
+Ensured the dashboard is user-friendly and visually appealing.
+
+About
+This project demonstrates my ability to manage and analyze large datasets, as well as create insightful visualizations to 
+communicate findings effectively. The analysis provides valuable insights into the global impact of COVID-19, showcasing 
+trends and critical metrics that can inform public health strategies and responses. Through this project, I have honed my 
+skills in SQL for data preparation and Tableau for data visualization, making me proficient in handling data-driven projects.
